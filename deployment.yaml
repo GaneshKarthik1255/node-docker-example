@@ -20,7 +20,7 @@ spec:
       - name: counterwebapp
         image: anujsharma1990/imagefromgithub
         ports:
-        - containerPort: 8080
+        - containerPort: 3112
         resources:
           requests:
             cpu: 200m
